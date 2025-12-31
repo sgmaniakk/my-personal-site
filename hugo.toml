@@ -10,5 +10,5 @@ theme = 'papermod'
     subtitle = "Software Engineer"
     imageUrl = "profile.jpg"
     imageTitle = "Matt Anderson"
-    imageWidth = 120
-    imageHeight = 120
+    imageWidth = 150
+    imageHeight = 100
