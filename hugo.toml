@@ -2,3 +2,13 @@ baseURL = 'https://mattanderson.xyz/'
 languageCode = 'en-us'
 title = 'Matt Anderson'
 theme = 'papermod'
+
+[params]
+  [params.profileMode]
+    enabled = true
+    title = "Matt Anderson"
+    subtitle = "Software Engineer"
+    # imageUrl = "profile.jpg" # Optional: add a profile image to static/
+    # imageTitle = "Matt Anderson"
+    # imageWidth = 120
+    # imageHeight = 120
