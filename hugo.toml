@@ -20,3 +20,7 @@ theme = 'papermod'
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/matthewanderson835/"
+
+  [[params.socialIcons]]
+    name = "cv"
+    url = "/resume.pdf"
