@@ -12,3 +12,11 @@ theme = 'papermod'
     imageTitle = "Matt Anderson"
     imageWidth = 150
     imageHeight = 150
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/sgmaniakk"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/matthewanderson835/"
