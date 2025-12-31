@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Matt Anderson'
 theme = 'papermod'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   [params.profileMode]
     enabled = true
