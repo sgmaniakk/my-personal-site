@@ -24,3 +24,8 @@ theme = 'papermod'
   [[params.socialIcons]]
     name = "cv"
     url = "/resume.pdf"
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 10
