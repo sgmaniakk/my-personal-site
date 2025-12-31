@@ -1,0 +1,7 @@
+/* Ensure profile image maintains aspect ratio on all devices */
+.profile img {
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+    width: 150px;
+    height: 150px;
+}
