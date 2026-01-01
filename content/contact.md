@@ -4,7 +4,7 @@ date = 2025-01-01T00:00:00Z
 draft = false
 +++
 
-<form action="https://formspree.io/f/xdkopnnr" method="POST" class="contact-form">
+<form action="https://formspree.io/f/mojvqkjj" method="POST" class="contact-form">
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" required>
