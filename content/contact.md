@@ -2,6 +2,7 @@
 title = 'Contact'
 date = 2025-01-01T00:00:00Z
 draft = false
+hideMeta = true
 +++
 
 <form action="https://formspree.io/f/mojvqkjj" method="POST" class="contact-form">
