@@ -10,7 +10,7 @@ theme = 'papermod'
   [params.profileMode]
     enabled = true
     title = "Matt Anderson"
-    subtitle = "Software Engineer"
+    subtitle = "Designing Systems at Scale"
     imageUrl = "profile.jpg"
     imageTitle = "Matt Anderson"
     imageWidth = 150
