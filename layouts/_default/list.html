@@ -4,7 +4,13 @@
 {{- partial "index_profile.html" . }}
 
 {{- if .Content }}
-<div class="post-content" style="margin-top: 20px;">
+<div class="post-content" style="margin-top: 10px;">
+  <style>
+    .post-content h2:first-child {
+      text-align: center;
+      margin-top: 0;
+    }
+  </style>
   {{- if not (.Param "disableAnchoredHeadings") }}
   {{- partial "anchored_headings.html" .Content -}}
   {{- else }}{{ .Content }}{{ end }}
