@@ -65,3 +65,13 @@
     transform: translateY(0);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+/* Bio section on home page */
+.profile + .post-content {
+    margin-top: 10px;
+}
+
+.profile + .post-content h2:first-child {
+    text-align: center;
+    margin-top: 0;
+}
