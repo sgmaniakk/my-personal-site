@@ -22,7 +22,7 @@ theme = 'papermod'
 
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://www.linkedin.com/in/matthewanderson835/"
+    url = "https://www.linkedin.com/in/matt-anderson-dev/"
 
   [[params.socialIcons]]
     name = "cv"
