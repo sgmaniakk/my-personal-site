@@ -5,6 +5,8 @@ draft = false
 hideMeta = true
 +++
 
+Email me at [me@mattanderson.xyz](mailto:me@mattanderson.xyz) or use the form below.
+
 <form action="https://formspree.io/f/mojvqkjj" method="POST" class="contact-form">
   <div class="form-group">
     <label for="name">Name</label>
