@@ -11,6 +11,7 @@ theme = 'papermod'
     enabled = true
     title = "Matt Anderson"
     subtitle = """Senior Software Engineer
+
 7 years building high-scale backend systems at Capital One & E-TRADE"""
     imageUrl = "profile.jpg"
     imageTitle = "Matt Anderson"
