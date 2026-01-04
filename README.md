@@ -1,4 +1,4 @@
-# Matt Anderson's Personal Website
+# My Personal Website
 
 Personal portfolio and blog built with Hugo and the PaperMod theme.
 
